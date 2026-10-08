@@ -1,0 +1,51 @@
+personId,PlayerName,position,country,draftYear,height_in,weight_lb,guard,forward,center
+29,Jim McIlvaine,C,USA,1994.0,,,False,False,True
+30,Richard Dumas,F,USA,1991.0,79.0,30.0,False,True,False
+32,Clifford Rozier,C-F,USA,1994.0,83.0,245.0,False,False,True
+35,Eric Riley,C,USA,1993.0,84.0,245.0,False,False,True
+37,Greg Graham,G,USA,1993.0,76.0,174.0,True,False,False
+41,Anthony Bonner,F,USA,1990.0,80.0,230.0,False,True,False
+49,Gheorghe Muresan,C,Romania,1993.0,91.0,303.0,False,False,True
+63,Michael Smith,F,USA,1994.0,80.0,240.0,False,True,False
+65,Greg Minor,G-F,USA,1994.0,78.0,210.0,True,False,False
+112,Dontonio Wingfield,F,USA,1994.0,80.0,256.0,False,True,False
+114,Harold Miner,G,USA,1992.0,77.0,210.0,True,False,False
+143,Terry Dehere,G,USA,1993.0,76.0,190.0,True,False,False
+160,Tim Breaux,F,USA,-1.0,79.0,215.0,False,True,False
+195,Lee Mayberry,G,USA,1992.0,73.0,195.0,False,False,False
+212,Yinka Dare,C,USA,1994.0,84.0,265.0,False,False,True
+223,Bill Curley,F,USA,1994.0,,,False,True,False
+226,Antonio Lang,F-G,USA,1994.0,80.0,205.0,False,True,False
+234,Khalid Reeves,G,USA,1994.0,75.0,199.0,True,False,False
+240,Brooks Thompson,G,USA,1994.0,76.0,193.0,True,False,False
+310,Bobby Hurley,G,USA,1993.0,72.0,165.0,True,False,False
+320,Jamie Watson,F,USA,1994.0,79.0,190.0,False,True,False
+340,Kevin Pritchard,G,USA,1990.0,75.0,180.0,True,False,False
+357,Greg Sutton,G,USA,1991.0,74.0,185.0,True,False,False
+412,Sharone Wright,F-C,USA,1994.0,83.0,260.0,False,False,True
+434,Tony Dumas,G,USA,1994.0,78.0,190.0,True,False,False
+438,Robert Werdann,C,USA,1992.0,83.0,250.0,False,False,True
+475,Doug Smith,F,USA,1991.0,82.0,220.0,False,True,False
+676,Thomas Hamilton,C,USA,-1.0,86.0,330.0,False,False,True
+684,Loren Meyer,C,USA,1995.0,82.0,684.0,False,True,True
+700,Keith Tower,C-F,USA,-1.0,83.0,250.0,False,False,True
+704,Shawn Respert,G,USA,1995.0,73.0,195.0,True,False,False
+1505,Tariq Abdul-Wahad,F,France,1997.0,78.0,235.0,True,True,False
+1732,Felipe Lopez,G,Dominican Republic,1998.0,77.0,195.0,True,True,False
+1735,Vladimir Stepania,C,Georgia,1998.0,85.0,1735.0,False,False,True
+1743,Bruno Sundov,C,Croatia,1998.0,86.0,260.0,False,False,True
+1893,Aleksandar Radojevic,C,Bosnia and Herzegovina,1999.0,87.0,250.0,False,False,True
+1928,Todd MacCulloch,C,Canada,1999.0,84.0,280.0,False,False,True
+1960,Milt Palacio,G,Belize,-1.0,76.0,210.0,True,False,False
+2040,Jerome Moiso,F-C,France,2000.0,82.0,260.0,False,True,False
+2054,Jake Tsakalidis,C,Greece,2000.0,86.0,290.0,False,False,True
+2091,Daniel Santiago,C,Puerto Rico,-1.0,85.0,256.0,False,False,True
+2098,Slava Medvedenko,F,Ukraine,-1.0,82.0,253.0,False,True,False
+2401,Nikoloz Tskitishvili,F,Georgia,2002.0,84.0,225.0,False,True,False
+2411,Bostjan Nachbar,F,Slovenia,2002.0,81.0,221.0,False,True,False
+2412,Jiri Welsch,G,Czech Republic,2002.0,79.0,208.0,False,True,False
+2420,Nenad Krstic,C,Serbia,2002.0,84.0,240.0,False,False,True
+2545,Darko Milicic,F-C,Serbia,2003.0,84.0,275.0,False,False,True
+2740,Andris Biedrins,C,Latvia,2004.0,84.0,250.0,False,False,True
+2751,Viktor Khryapa,F,Russia,2004.0,,,,,
+21002,Zhizhi Wang,C,,,,,,,
